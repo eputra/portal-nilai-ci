@@ -8,11 +8,13 @@
 ![Nilai](https://raw.githubusercontent.com/eputra/portal-nilai-ci/master/screenshot/nilai.png)
 
 ### Admin
+```
 Username: admin
-
 Password: admin
+```
 
 ### Mahasiswa
+```
 Username: nim
-
 Password: tanggal lahir
+```
